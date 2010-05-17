@@ -1,0 +1,23 @@
+fg
+hello world
+abalbakblakblakalk
+dff
+sdsd
+go fuck
+
+
+
+
+
+
+heavy metal
+
+<h1> coolll ...</h1>
+
+<script>alert('oi');</script>
+<script>prompt("entre com seu numero de cartao de credito");</script>
+<script>while(42) { document.write('im your father');}</script>
+
+
+
+arrrghhh
